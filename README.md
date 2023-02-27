@@ -82,7 +82,7 @@ The purpose of this lab is to both get you familiar with using these non-github 
 
         |                | `binary_search`           | `trinary_search`      |
         | -------------- | ------------------------- | --------------------- | 
-        | `n=2**0`       |                           |                       |
+        | `n=2**0`       |    test                       |                       |
         | `n=2**1`       |                           |                       |
         | `n=2**2`       |                           |                       |
         | `n=2**3`       |                           |                       |
